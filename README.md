@@ -16,7 +16,9 @@ Write this command into shell (cmd/git/powershell etc) `conda install scrapy`
 
 Clone the project into your desired directory:
 
-Write this command into shell (cmd/git/powershell etc) `git clone https://github.com/retviewsinterviu/final_interviu.git`
+Write this command into shell (cmd/git/powershell etc) 
+
+`git clone https://github.com/retviewsinterviu/final_interviu.git`
 
 ## All set! Lets go!
 
