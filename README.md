@@ -36,4 +36,4 @@ Additional settings:
 
 
 
-### GOOD LUCK!
+### Good luck!
