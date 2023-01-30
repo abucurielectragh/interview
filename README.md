@@ -1,7 +1,7 @@
 # Retviews final interview
 Hello, and congratulations for reaching this far.
 
-For this stage of the processes, you will have to build a functional spider (a script that will take the data from a certain webiste)
+For this stage of the process, you will have to build a functional spider (a script that will take the data from a certain website)
 
 **Requirements:**
 - conda (https://conda.io/projects/conda/en/latest/user-guide/install/index.html) - used to install scrapy
